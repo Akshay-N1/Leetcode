@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Akshay-N1/Leetcode/tree/master/0051-n-queens) |
+| [0162-find-peak-element](https://github.com/Akshay-N1/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Akshay-N1/Leetcode/tree/master/0164-maximum-gap) |
 ## Backtracking
 |  |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Akshay-N1/Leetcode/tree/master/0164-maximum-gap) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Akshay-N1/Leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
