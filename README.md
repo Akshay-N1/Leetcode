@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Akshay-N1/Leetcode/tree/master/0051-n-queens) |
+| [0164-maximum-gap](https://github.com/Akshay-N1/Leetcode/tree/master/0164-maximum-gap) |
 ## Backtracking
 |  |
 | ------- |
@@ -46,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akshay-N1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Sorting
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Akshay-N1/Leetcode/tree/master/0164-maximum-gap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Akshay-N1/Leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Akshay-N1/Leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
